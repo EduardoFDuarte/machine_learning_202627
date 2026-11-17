@@ -1,4 +1,4 @@
-# DSAA Machine Learning Practicals
+`# DSAA Machine Learning Practicals
 
 This repository contains the notebooks and supporting files used in the DSAA
 Machine Learning practical classes. Unsolved notebooks are available under
